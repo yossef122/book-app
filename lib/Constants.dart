@@ -1,0 +1,1 @@
+Duration mainTransitionDuration=const Duration(milliseconds: 250);
